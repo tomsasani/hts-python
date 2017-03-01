@@ -4,7 +4,7 @@ hts-python
 pythonic wrapper for [htslib](https://github.com/samtools/htslib.git) C-API using python [cffi](https://cffi.readthedocs.org/).
 
 There is enough functionality for this to be useful, but it still needs a lot of work.
-
+[![Documentation Status](https://readthedocs.org/projects/hts-python/badge/?version=latest)](http://hts-python.readthedocs.io/en/latest/?badge=latest)
 [![Build Status](https://travis-ci.org/quinlan-lab/hts-python.svg?branch=master)](https://travis-ci.org/quinlan-lab/hts-python)
 [![codecov](https://codecov.io/gh/quinlan-lab/hts-python/branch/master/graph/badge.svg)](https://codecov.io/gh/quinlan-lab/hts-python)
 
