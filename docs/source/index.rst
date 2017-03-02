@@ -47,4 +47,3 @@ A taste of hts-python...
    :maxdepth: 2
    :caption: Contents:
 
-   includeme
